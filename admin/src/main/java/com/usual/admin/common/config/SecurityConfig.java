@@ -10,7 +10,7 @@ import org.springframework.security.config.annotation.web.configuration.WebSecur
  * 安全配置类
  *
  * @author huyanchao
- * @since 2018-03-14
+ * @since 2018-08-21
  */
 @Configuration
 @EnableWebSecurity

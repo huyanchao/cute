@@ -10,6 +10,11 @@ import com.baomidou.mybatisplus.generator.config.StrategyConfig;
 import com.baomidou.mybatisplus.generator.config.rules.NamingStrategy;
 import org.junit.jupiter.api.Test;
 
+/**
+ * Mybatis plus 代码生成器
+ * @author huyanchao
+ * @since 2018-08-21
+ */
 @SuppressWarnings("all")
 public class GenerateService {
 

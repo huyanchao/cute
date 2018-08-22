@@ -6,6 +6,11 @@ spring:
     password: 325910
   jackson:
     time-zone: GMT+8
+  data:
+    redis:
+      port: 6379
+      host: localhost
+      password: cute
 
 server:
   port: 8080

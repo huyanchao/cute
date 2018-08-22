@@ -6,6 +6,12 @@ import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
+/**
+ * Mybatis plus 配置
+ *
+ * @author huyanchao
+ * @since 2018-08-21
+ */
 @Configuration
 @MapperScan("com.usual.admin.module.mapper*")
 public class MybatisPlusConfig {
