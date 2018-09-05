@@ -39,7 +39,6 @@ public class GenerateService {
         strategyConfig
                 .setCapitalMode(true)
                 .setEntityLombokModel(false)
-                .setDbColumnUnderline(true)
                 .setNaming(NamingStrategy.underline_to_camel)
                 .setInclude(tableNames);
 
