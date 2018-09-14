@@ -12,6 +12,6 @@ public class ResultUtil {
     }
 
     public static ResultMessage Error(Object data, String message) {
-        return new ResultMessage(-1, "", data);
+        return new ResultMessage(-1, message, data);
     }
 }
